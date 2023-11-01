@@ -1,1 +1,1 @@
-# lab2_19080187_Salas
+# Laboratorio N°2
