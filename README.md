@@ -1,1 +1,1 @@
-# Laboratorio N°2 P
+# Laboratorio N°2 Paradigmas
