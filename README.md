@@ -1,1 +1,1 @@
-# Laboratorio N°2 Paradigmas
+# Laboratorio N°2 Paradigmas de Programación
