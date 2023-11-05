@@ -1,1 +1,1 @@
-# Laboratorio N°2 Paradigmas de Programación
+# Laboratorio N°2 Paradigmas de Programación 2-2023
