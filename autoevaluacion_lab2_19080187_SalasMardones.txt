@@ -1,0 +1,15 @@
+ Requerimiento		Puntaje
+1.  TDA's		   1
+2.  option		   1
+3.  flow		   1
+4.  flowAddOption	   1		
+5.  chatbot		   1
+6.  chatbotAddFlow	   1
+7.  system		   1
+8.  systemAddChatbot	   1
+9.  systemAddUser	   1
+10. systemLogin		   1
+11. systemLogout	   1
+12. systemTalkRec	   0
+13. systemSynthesis	   0
+14. systemSimulate	   0
